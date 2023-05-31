@@ -1,0 +1,22 @@
+h1{
+  color: red;
+
+}
+img:hover{
+  background-color: gold;
+}
+
+/**************CLASS SELECTER **************** */
+.bacon{
+  background-color: green;
+}
+.broc{
+  background-color: red;
+}
+.circle{
+  border-radius: 100%;
+}
+/* ***********************ID SELECTER ******************* */
+ #heading{
+   color :blue;
+ }
